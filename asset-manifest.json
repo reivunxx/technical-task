@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/technical-task/static/css/main.6d01f623.css",
+    "main.js": "/technical-task/static/js/main.341233f8.js",
+    "static/media/Lato-Bold.ttf": "/technical-task/static/media/Lato-Bold.08ce961fb8a75d3079d8.ttf",
+    "static/media/Lato-Regular.ttf": "/technical-task/static/media/Lato-Regular.faacec1c82ca10ed3b76.ttf",
+    "static/media/han-solo.jpg": "/technical-task/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/heart-active.svg": "/technical-task/static/media/heart-active.5f1e83164a1c52cb4d29eb4c055603b5.svg",
+    "static/media/heart-counter.svg": "/technical-task/static/media/heart-counter.312bf2b57143c3652365ba59b53eacb8.svg",
+    "static/media/heart.svg": "/technical-task/static/media/heart.733ad8d7515f6860d22e3b61fca8e35a.svg",
+    "index.html": "/technical-task/index.html",
+    "main.6d01f623.css.map": "/technical-task/static/css/main.6d01f623.css.map",
+    "main.341233f8.js.map": "/technical-task/static/js/main.341233f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d01f623.css",
+    "static/js/main.341233f8.js"
+  ]
+}
