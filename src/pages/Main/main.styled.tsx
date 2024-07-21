@@ -4,7 +4,7 @@ import {palette} from "../../style/colors";
 
 export const Layout = styled.div`
     background-color: #101f25;
-    background-image: url("/bg.png");
+    background-image: url("bg.png");
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
