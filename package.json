@@ -2,8 +2,11 @@
     "name": "technical_task",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://reivunxx.github.io/technical-task/",
     "scripts": {
         "start": "react-scripts start",
+        "predrploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "prettier": "prettier --write '*/**/*.{ts,tsx,js,jsx,css,scss,json}'"
@@ -43,5 +46,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     }
 }
